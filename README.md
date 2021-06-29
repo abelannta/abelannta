@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying on **University of Malang**
 
-- 🌱 I’m currently learning **nodejs, sanity, gatsby**
+- 🌱 I’m currently learning **nodejs, react**
 
 - 📫 How to reach me **abelananta9@gmail.com**
 
