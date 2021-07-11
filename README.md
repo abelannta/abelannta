@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abel Ananta</h1>
-<h3 align="center">I dunno wat to do wit this yow</h3>
+
 
 - 🔭 I’m currently studying on **University of Malang**
 
