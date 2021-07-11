@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **abelananta9@gmail.com**
 
+- 📫 Visit my portofolio **https://abelananta.netlify.app/**
+
 - ⚡ Fun fact **I love u ❤**
 
 <h3 align="left">Connect with me:</h3>
