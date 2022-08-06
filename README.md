@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abelananta9@gmail.com**
 
-- 🌏 Visit my portofolio **https://abelananta.tech/**
+- 🌏 Visit my portofolio **https://abelananta.com/**
 
 - ⚡ Fun fact **I love u ❤**
 
