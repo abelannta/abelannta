@@ -9,8 +9,6 @@
 
 - 🌏 Visit my portofolio **https://abelananta.com/**
 
-- ⚡ Fun fact **I love u ❤**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/abelannta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abelannta" height="30" width="40" /></a>
